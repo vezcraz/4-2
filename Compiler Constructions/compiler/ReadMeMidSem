@@ -1,0 +1,8 @@
+If you run genid.m in GNU Octave or other bematlab numeric softwares then you get an inputfile generated randomly with 10000 IDs. However, to test and check your answers in the exam itself, use the input file that we had provided.
+
+Run
+    . lexergeneratormidsem.sh <ID>
+
+wherein <ID> is your ID.
+
+And then see the magic.

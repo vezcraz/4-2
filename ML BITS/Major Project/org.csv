@@ -1,0 +1,711 @@
+stp_name,boroughs,start_date,end_date,dose,age_band,vaccines,population,percent_vaccine
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-17,1st dose,80+,27886,57517,0.4848305718309369
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-17,1st dose,80+,28226,51226,0.5510092531136532
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-17,1st dose,80+,35171,77033,0.4565705606688043
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-17,1st dose,80+,27708,60667,0.45672276525953154
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-17,1st dose,80+,31295,55290,0.566015554349792
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-17,1st dose,Under 80,40972,1522657,0.026908226869216113
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-17,1st dose,Under 80,40375,1159281,0.034827621603390375
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-17,1st dose,Under 80,45724,1597492,0.028622365558012185
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-17,1st dose,Under 80,45989,1397804,0.032900893115200704
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-17,1st dose,Under 80,53007,1139441,0.04652017963194233
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-17,2nd dose,80+,5821,57517,0.10120486117147974
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-17,2nd dose,80+,8850,51226,0.17276383086713779
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-17,2nd dose,80+,8084,77033,0.10494203782794387
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-17,2nd dose,80+,5975,60667,0.09848846984357229
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-17,2nd dose,80+,7561,55290,0.1367516729969253
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-17,2nd dose,Under 80,2438,1522657,0.0016011485186749215
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-17,2nd dose,Under 80,3026,1159281,0.0026102385875383105
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-17,2nd dose,Under 80,2255,1597492,0.0014115876636627913
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-17,2nd dose,Under 80,2811,1397804,0.002011011558129752
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-17,2nd dose,Under 80,3720,1139441,0.0032647587720645473
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-24,1st dose,80+,36217,57517,0.6296747048698645
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-24,1st dose,80+,34093,51226,0.6655409362433139
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-24,1st dose,80+,50811,77033,0.6596004309841237
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-24,1st dose,80+,36651,60667,0.6041340432195428
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-24,1st dose,80+,39498,55290,0.7143787303309821
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-24,1st dose,Under 80,80123,1522657,0.05262051794987315
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-24,1st dose,Under 80,73731,1159281,0.06360062832048485
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-24,1st dose,Under 80,95574,1597492,0.05982752965273066
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-24,1st dose,Under 80,92150,1397804,0.06592483638621724
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-24,1st dose,Under 80,87226,1139441,0.07655157221830705
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-24,2nd dose,80+,5973,57517,0.10384755811325347
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-24,2nd dose,80+,9052,51226,0.17670714090500916
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-24,2nd dose,80+,9029,77033,0.11720950761362013
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-24,2nd dose,80+,7764,60667,0.12797731880594063
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-24,2nd dose,80+,8095,55290,0.14640983903056612
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-24,2nd dose,Under 80,2624,1522657,0.0017233034097633281
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-24,2nd dose,Under 80,3268,1159281,0.002818988666250892
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-24,2nd dose,Under 80,2618,1597492,0.0016388188485450944
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-24,2nd dose,Under 80,3161,1397804,0.002261404317057327
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-24,2nd dose,Under 80,4051,1139441,0.003555252092912226
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-31,1st dose,70-74,31285,51198,0.611059025743193
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-31,1st dose,70-74,29394,46739,0.6288966387813175
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-31,1st dose,70-74,39843,69815,0.5706939769390532
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-31,1st dose,70-74,37385,54280,0.6887435519528371
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-31,1st dose,70-74,29087,51514,0.5646426214233023
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-31,1st dose,75-79,26035,36008,0.7230337702732726
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-31,1st dose,75-79,25361,33389,0.7595615322411573
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-31,1st dose,75-79,37414,50001,0.748265034699306
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-31,1st dose,75-79,30355,38296,0.7926415291414247
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-31,1st dose,75-79,28076,35616,0.7882973944294699
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-31,1st dose,80+,40009,57517,0.695603039101483
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-31,1st dose,80+,37528,51226,0.7325967282239487
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-31,1st dose,80+,58210,77033,0.7556501758986408
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-31,1st dose,80+,46265,60667,0.7626056999686814
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-31,1st dose,80+,43946,55290,0.7948272743714957
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-31,1st dose,Under 70,77778,1435451,0.0541836677114022
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-31,1st dose,Under 70,68064,1079153,0.06307168677657385
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-31,1st dose,Under 70,92622,1477676,0.06268085832076856
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-31,1st dose,Under 70,85366,1305228,0.06540313263276608
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-31,1st dose,Under 70,80799,1052311,0.0767824340903022
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-31,2nd dose,70-74,181,51198,0.0035352943474354468
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-31,2nd dose,70-74,228,46739,0.004878153148334367
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-31,2nd dose,70-74,176,69815,0.002520948220296498
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-31,2nd dose,70-74,166,54280,0.003058216654384672
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-31,2nd dose,70-74,207,51514,0.004018325115502582
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-31,2nd dose,75-79,142,36008,0.003943568095978672
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-31,2nd dose,75-79,749,33389,0.022432537662104287
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-31,2nd dose,75-79,221,50001,0.004419911601767965
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-31,2nd dose,75-79,285,38296,0.007442030499268853
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-31,2nd dose,75-79,281,35616,0.007889712488769093
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-31,2nd dose,80+,6170,57517,0.10727263243910495
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-31,2nd dose,80+,9343,51226,0.1823878499199625
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-31,2nd dose,80+,9242,77033,0.11997455635896304
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-31,2nd dose,80+,8526,60667,0.1405376893533552
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-31,2nd dose,80+,8379,55290,0.1515463917525773
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-01-31,2nd dose,Under 70,2744,1435451,0.0019115943351601691
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-01-31,2nd dose,Under 70,2652,1079153,0.0024574828592423873
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-01-31,2nd dose,Under 70,2765,1477676,0.0018711815039291427
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-01-31,2nd dose,Under 70,3205,1305228,0.0024555096887287123
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-01-31,2nd dose,Under 70,3952,1052311,0.003755543750849321
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-07,1st dose,70-74,39935,51198,0.7800109379272628
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-07,1st dose,70-74,36565,46739,0.7823231134598515
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-07,1st dose,70-74,53533,69815,0.7667836424837069
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-07,1st dose,70-74,45188,54280,0.8324981577008106
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-07,1st dose,70-74,41612,51514,0.8077804092091471
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-07,1st dose,75-79,28383,36008,0.7882415018884692
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-07,1st dose,75-79,27064,33389,0.8105663541885052
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-07,1st dose,75-79,40446,50001,0.8089038219235616
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-07,1st dose,75-79,33021,38296,0.8622571547942344
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-07,1st dose,75-79,31739,35616,0.8911444294699011
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-07,1st dose,80+,42044,57517,0.730983883025888
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-07,1st dose,80+,39069,51226,0.762679108265334
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-07,1st dose,80+,60269,77033,0.7823789804369556
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-07,1st dose,80+,48823,60667,0.8047703034598711
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-07,1st dose,80+,46440,55290,0.8399348887683126
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-07,1st dose,Under 70,110856,1435451,0.07722729650820544
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-07,1st dose,Under 70,105878,1079153,0.09811213053200056
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-07,1st dose,Under 70,146786,1477676,0.0993357136476467
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-07,1st dose,Under 70,120735,1305228,0.09250108027103311
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-07,1st dose,Under 70,105891,1052311,0.10062709598208135
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-07,2nd dose,70-74,193,51198,0.003769678503066526
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-07,2nd dose,70-74,248,46739,0.005306061319240891
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-07,2nd dose,70-74,187,69815,0.002678507484065029
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-07,2nd dose,70-74,181,54280,0.0033345615327929254
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-07,2nd dose,70-74,240,51514,0.004658927670147921
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-07,2nd dose,75-79,151,36008,0.004193512552766052
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-07,2nd dose,75-79,763,33389,0.022851837431489413
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-07,2nd dose,75-79,223,50001,0.004459910801783964
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-07,2nd dose,75-79,304,38296,0.007938165865886776
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-07,2nd dose,75-79,305,35616,0.008563566936208446
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-07,2nd dose,80+,6295,57517,0.10944590295043205
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-07,2nd dose,80+,9370,51226,0.18291492601413345
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-07,2nd dose,80+,9350,77033,0.12137655290589747
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-07,2nd dose,80+,8563,60667,0.14114757611221918
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-07,2nd dose,80+,8438,55290,0.1526134924941219
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-07,2nd dose,Under 70,2927,1435451,0.0020390804005152386
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-07,2nd dose,Under 70,2863,1079153,0.002653006570894025
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-07,2nd dose,Under 70,3020,1477676,0.00204374978006004
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-07,2nd dose,Under 70,3431,1305228,0.002628659513893358
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-07,2nd dose,Under 70,4288,1052311,0.004074840992824365
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-14,1st dose,70-74,42384,51198,0.8278448376889722
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-14,1st dose,70-74,38303,46739,0.8195083335116284
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-14,1st dose,70-74,56997,69815,0.8164004870013607
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-14,1st dose,70-74,47458,54280,0.8743183492999264
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-14,1st dose,70-74,46641,51514,0.9054043560973716
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-14,1st dose,75-79,29588,36008,0.8217062874916685
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-14,1st dose,75-79,27849,33389,0.8340770912575998
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-14,1st dose,75-79,41908,50001,0.8381432371352573
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-14,1st dose,75-79,34173,38296,0.8923386254439106
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-14,1st dose,75-79,32970,35616,0.9257075471698113
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-14,1st dose,80+,44357,57517,0.7711980805674844
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-14,1st dose,80+,40259,51226,0.7859094990824972
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-14,1st dose,80+,61815,77033,0.8024483013773318
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-14,1st dose,80+,50508,60667,0.8325448761270543
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-14,1st dose,80+,47946,55290,0.86717308735756915
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-14,1st dose,Under 70,140140,1435451,0.09762785354568007
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-14,1st dose,Under 70,150233,1079153,0.13921380934862804
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-14,1st dose,Under 70,216570,1477676,0.14656122181046455
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-14,1st dose,Under 70,165230,1305228,0.12659090978740878
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-14,1st dose,Under 70,144793,1052311,0.13759525463479902
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-14,2nd dose,70-74,200,51198,0.003906402593851322
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-14,2nd dose,70-74,273,46739,0.005840946532874045
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-14,2nd dose,70-74,214,69815,0.0030652438587696054
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-14,2nd dose,70-74,202,54280,0.0037214443625644806
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-14,2nd dose,70-74,270,51514,0.005241293628916411
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-14,2nd dose,75-79,159,36008,0.004415685403243724
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-14,2nd dose,75-79,782,33389,0.023420887118512083
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-14,2nd dose,75-79,244,50001,0.004879902401951961
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-14,2nd dose,75-79,323,38296,0.0084343012325047
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-14,2nd dose,75-79,317,35616,0.008900494159928123
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-14,2nd dose,80+,6299,57517,0.10951544760679452
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-14,2nd dose,80+,9372,51226,0.18295396868777575
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-14,2nd dose,80+,9378,77033,0.12174003349213973
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-14,2nd dose,80+,8595,60667,0.1416750457415069
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-14,2nd dose,80+,8599,55290,0.15552541146681137
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-14,2nd dose,Under 70,3038,1435451,0.00211640801392733
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-14,2nd dose,Under 70,3049,1079153,0.0028253639659992606
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-14,2nd dose,Under 70,3449,1477676,0.0023340705269626087
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-14,2nd dose,Under 70,3671,1305228,0.0028125354344221854
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-14,2nd dose,Under 70,4632,1052311,0.004401740550084529
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,1st dose,65-69,41596,62019,0.6706976894177591
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,1st dose,65-69,40649,52454,0.7749456666793763
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,1st dose,65-69,62193,81945,0.7589602782354018
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,1st dose,65-69,47957,59879,0.8008984785985069
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,1st dose,65-69,44693,56629,0.7892246022356036
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,1st dose,70-74,43541,51198,0.8504433766944022
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,1st dose,70-74,39111,46739,0.8367958236162519
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,1st dose,70-74,58066,69815,0.8317123827257753
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,1st dose,70-74,48550,54280,0.8944362564480471
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,1st dose,70-74,47430,51514,0.9207205808129829
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,1st dose,75-79,30226,36008,0.8394245723172629
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,1st dose,75-79,28342,33389,0.8488424331366617
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,1st dose,75-79,42521,50001,0.8504029919401612
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,1st dose,75-79,34741,38296,0.9071704616670149
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,1st dose,75-79,33383,35616,0.9373034591194969
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,1st dose,80+,45293,57517,0.7874715301563017
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,1st dose,80+,41102,51226,0.8023659860227228
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,1st dose,80+,62336,77033,0.8092116365713395
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,1st dose,80+,51419,60667,0.84756127713584
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,1st dose,80+,48606,55290,0.8791101465002713
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,1st dose,Under 65,155515,1373432,0.1132309426313061
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,1st dose,Under 65,151719,1026699,0.14777359284464092
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,1st dose,Under 65,225793,1395731,0.16177400946170858
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,1st dose,Under 65,175411,1245349,0.14085288541605606
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,1st dose,Under 65,146145,995682,0.1467787908187554
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,2nd dose,65-69,196,62019,0.003160321836856447
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,2nd dose,65-69,245,52454,0.0046707591413428905
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,2nd dose,65-69,280,81945,0.0034169259869424613
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,2nd dose,65-69,262,59879,0.004375490572654854
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,2nd dose,65-69,366,56629,0.00646311960303025
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,2nd dose,70-74,217,51198,0.004238446814328685
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,2nd dose,70-74,302,46739,0.006461413380688504
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,2nd dose,70-74,254,69815,0.0036381866361097186
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,2nd dose,70-74,227,54280,0.00418201915991157
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,2nd dose,70-74,300,51514,0.005823659587684901
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,2nd dose,75-79,172,36008,0.00477671628526994
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,2nd dose,75-79,796,33389,0.02384018688789721
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,2nd dose,75-79,271,50001,0.005419891602167957
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,2nd dose,75-79,357,38296,0.009322122414873617
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,2nd dose,75-79,344,35616,0.009658580413297395
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,2nd dose,80+,6320,57517,0.10988055705269746
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,2nd dose,80+,9409,51226,0.18367625815015812
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,2nd dose,80+,9466,77033,0.12288240104890112
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,2nd dose,80+,8723,60667,0.1437849242586579
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,2nd dose,80+,8622,55290,0.15594139989148129
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-21,2nd dose,Under 65,3121,1373432,0.0022724095550416767
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-21,2nd dose,Under 65,3103,1026699,0.0030223074143444183
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-21,2nd dose,Under 65,4018,1395731,0.0028787782172925874
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-21,2nd dose,Under 65,4218,1245349,0.003387002358375042
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-21,2nd dose,Under 65,4882,995682,0.004903171896247999
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,1st dose,65-69,47006,62019,0.7579290217513988
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,1st dose,65-69,42323,52454,0.806859343424715
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,1st dose,65-69,65150,81945,0.7950454573189334
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,1st dose,65-69,50745,59879,0.8474590424021777
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,1st dose,65-69,47557,56629,0.8397993960691519
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,1st dose,70-74,44278,51198,0.8648384702527443
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,1st dose,70-74,39667,46739,0.8486916707674533
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,1st dose,70-74,59009,69815,0.8452195087015685
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,1st dose,70-74,49323,54280,0.9086772291820192
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,1st dose,70-74,48087,51514,0.9334743953100129
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,1st dose,75-79,30629,36008,0.8506165296600755
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,1st dose,75-79,28675,33389,0.8588157776513223
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,1st dose,75-79,43099,50001,0.8619627607447851
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,1st dose,75-79,35160,38296,0.9181115521203259
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,1st dose,75-79,33757,35616,0.9478043575920935
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,1st dose,80+,45783,57517,0.7959907505607038
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,1st dose,80+,41558,51226,0.8112677156131652
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,1st dose,80+,62889,77033,0.8163903781496242
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,1st dose,80+,51981,60667,0.856824962500206
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,1st dose,80+,48955,55290,0.8854223186833062
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,1st dose,Under 65,219350,1373432,0.1597093995188695
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,1st dose,Under 65,200261,1026699,0.1950532726729061
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,1st dose,Under 65,296203,1395731,0.2122206929558776
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,1st dose,Under 65,236557,1245349,0.1899523747961415
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,1st dose,Under 65,194277,995682,0.1951195261137592
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,2nd dose,65-69,333,62019,0.005369322304455086
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,2nd dose,65-69,354,52454,0.00674877035116483
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,2nd dose,65-69,437,81945,0.0053328452010494845
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,2nd dose,65-69,353,59879,0.005895222031096044
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,2nd dose,65-69,477,56629,0.008423246040014834
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,2nd dose,70-74,315,51198,0.0061525840853158325
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,2nd dose,70-74,393,46739,0.008408395558313186
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,2nd dose,70-74,348,69815,0.004984602162858984
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,2nd dose,70-74,336,54280,0.006190125276344879
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,2nd dose,70-74,372,51514,0.007221337888729277
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,2nd dose,75-79,327,36008,0.009081315263274829
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,2nd dose,75-79,857,33389,0.025667135883075263
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,2nd dose,75-79,353,50001,0.007059858802823943
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,2nd dose,75-79,459,38296,0.011985585961980363
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,2nd dose,75-79,389,35616,0.010922057502246181
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,2nd dose,80+,7709,57517,0.13402993897456406
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,2nd dose,80+,9573,51226,0.18687775738882598
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,2nd dose,80+,10043,77033,0.1303726974153934
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,2nd dose,80+,9309,60667,0.15344421184498985
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,2nd dose,80+,8714,55290,0.15760535359016098
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-02-28,2nd dose,Under 65,4589,1373432,0.0033412648023345894
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-02-28,2nd dose,Under 65,4737,1026699,0.004613815733725269
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-02-28,2nd dose,Under 65,6869,1395731,0.004921435434191832
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-02-28,2nd dose,Under 65,6204,1245349,0.004981736043470545
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-02-28,2nd dose,Under 65,6460,995682,0.006488015249848847
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,1st dose,60-64,47991,79241,0.6056334473315581
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,1st dose,60-64,48827,64335,0.7589492500194296
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,1st dose,60-64,73338,99934,0.733864350471311
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,1st dose,60-64,55915,78762,0.7099235672024581
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,1st dose,60-64,48755,68802,0.7086276561727857
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,1st dose,65-69,49701,62019,0.8013834470081749
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,1st dose,65-69,43235,52454,0.8242460060243261
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,1st dose,65-69,66747,81945,0.8145341387516016
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,1st dose,65-69,52290,59879,0.8732610765042836
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,1st dose,65-69,49160,56629,0.868106447226686
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,1st dose,70-74,44765,51198,0.8743505605687723
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,1st dose,70-74,40001,46739,0.8558377372215923
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,1st dose,70-74,59618,69815,0.8539425624865716
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,1st dose,70-74,49733,54280,0.9162306558585114
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,1st dose,70-74,48573,51514,0.9429087238420624
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,1st dose,75-79,30864,36008,0.8571428571428571
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,1st dose,75-79,28880,33389,0.8649555242744617
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,1st dose,75-79,43441,50001,0.8688026239475211
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,1st dose,75-79,35411,38296,0.9246657614372258
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,1st dose,75-79,34000,35616,0.9546271338724169
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,1st dose,80+,45950,57517,0.7988942399638368
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,1st dose,80+,41733,51226,0.8146839495568656
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,1st dose,80+,63078,77033,0.8188438721067595
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,1st dose,80+,52152,60667,0.8596436283317125
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,1st dose,80+,49168,55290,0.8892747332248147
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,1st dose,Under 60,222217,1294191,0.17170340390251515
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,1st dose,Under 60,191288,962364,0.1987688650032628
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,1st dose,Under 60,273262,1295797,0.21088334052324553
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,1st dose,Under 60,222133,1166587,0.1904127167540869
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,1st dose,Under 60,183418,926880,0.19788753668220266
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,2nd dose,60-64,743,79241,0.009376459156244873
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,2nd dose,60-64,787,64335,0.012232843708712209
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,2nd dose,60-64,1110,99934,0.011107330838353312
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,2nd dose,60-64,872,78762,0.011071328813387167
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,2nd dose,60-64,1165,68802,0.016932647306764338
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,2nd dose,65-69,449,62019,0.007239716860961963
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,2nd dose,65-69,564,52454,0.010752278186601594
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,2nd dose,65-69,847,81945,0.010336201110500945
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,2nd dose,65-69,520,59879,0.008684179762521085
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,2nd dose,65-69,712,56629,0.012573063271468682
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,2nd dose,70-74,423,51198,0.008262041485995547
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,2nd dose,70-74,587,46739,0.012559104816106463
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,2nd dose,70-74,1657,69815,0.02373415455131419
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,2nd dose,70-74,1004,54280,0.018496683861459102
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,2nd dose,70-74,600,51514,0.011647319175369802
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,2nd dose,75-79,507,36008,0.014080204399022439
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,2nd dose,75-79,1170,33389,0.0350414807271856
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,2nd dose,75-79,1176,50001,0.023519529609407813
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,2nd dose,75-79,1111,38296,0.02901086275329016
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,2nd dose,75-79,663,35616,0.018615229110512128
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,2nd dose,80+,9275,57517,0.16125667194046978
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,2nd dose,80+,11013,51226,0.21498848241127552
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,2nd dose,80+,11326,77033,0.1470278971349941
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,2nd dose,80+,10988,60667,0.18111988395668155
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,2nd dose,80+,10075,55290,0.18222101645867245
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-07,2nd dose,Under 60,6323,1294191,0.0048856776163642
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-07,2nd dose,Under 60,7038,962364,0.0073132411436836785
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-07,2nd dose,Under 60,9000,1295797,0.006945532363479773
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-07,2nd dose,Under 60,8065,1166587,0.006913329224481329
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-07,2nd dose,Under 60,9207,926880,0.009933324702226826
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,1st dose,55-59,50234,99417,0.505285816309082
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,1st dose,55-59,54049,81982,0.6592788660925569
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,1st dose,55-59,78924,120946,0.6525556860086319
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,1st dose,55-59,60526,104934,0.5768006556502182
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,1st dose,55-59,51687,88189,0.5860935037249544
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,1st dose,60-64,59486,79241,0.7506972400651178
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,1st dose,60-64,52730,64335,0.8196160721224839
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,1st dose,60-64,79657,99934,0.7970960834150539
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,1st dose,60-64,64820,78762,0.8229857037657754
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,1st dose,60-64,57259,68802,0.8322287142815615
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,1st dose,65-69,51166,62019,0.8250052403295765
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,1st dose,65-69,43857,52454,0.8361040149464293
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,1st dose,65-69,67731,81945,0.8265421929342852
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,1st dose,65-69,53190,59879,0.888291387631724
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,1st dose,65-69,49948,56629,0.8820215790496035
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,1st dose,70-74,45117,51198,0.8812258291339505
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,1st dose,70-74,40230,46739,0.860737285778472
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,1st dose,70-74,59950,69815,0.8586979875384946
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,1st dose,70-74,49994,54280,0.921039056742815
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,1st dose,70-74,48817,51514,0.9476453003067128
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,1st dose,75-79,31014,36008,0.8613085980893135
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,1st dose,75-79,29033,33389,0.8695378717541705
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,1st dose,75-79,43630,50001,0.872582548349033
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,1st dose,75-79,35602,38296,0.9296532274911218
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,1st dose,75-79,34149,35616,0.9588106469002695
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,1st dose,80+,46205,57517,0.8033277118069441
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,1st dose,80+,42006,51226,0.8200132745090384
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,1st dose,80+,63307,77033,0.8218166240442408
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,1st dose,80+,52428,60667,0.8641930538843193
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,1st dose,80+,49376,55290,0.89303671550009045
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,1st dose,Under 55,205905,1194774,0.17233803212992582
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,1st dose,Under 55,165096,880382,0.18752768684502863
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,1st dose,Under 55,234045,1174851,0.1992124958824566
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,1st dose,Under 55,194579,1061653,0.18327928240206545
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,1st dose,Under 55,162600,838691,0.19387354818401534
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,2nd dose,55-59,1430,99417,0.01438385789150749
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,2nd dose,55-59,1518,81982,0.018516259666756116
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,2nd dose,55-59,1952,120946,0.016139434127627205
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,2nd dose,55-59,1694,104934,0.016143480664036442
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,2nd dose,55-59,2240,88189,0.025399993196430395
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,2nd dose,60-64,1204,79241,0.015194154541209728
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,2nd dose,60-64,1222,64335,0.01899432657185047
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,2nd dose,60-64,1693,99934,0.016941181179578522
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,2nd dose,60-64,1258,78762,0.01597216932023057
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,2nd dose,60-64,1748,68802,0.025406238190750267
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,2nd dose,65-69,672,62019,0.010835389154936391
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,2nd dose,65-69,841,52454,0.016033095664772942
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,2nd dose,65-69,1313,81945,0.0160229422173409
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,2nd dose,65-69,722,59879,0.012057649593346582
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,2nd dose,65-69,1040,56629,0.01836514859877448
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,2nd dose,70-74,693,51198,0.013535684987694831
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,2nd dose,70-74,793,46739,0.016966558976443655
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,2nd dose,70-74,2511,69815,0.035966482847525606
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,2nd dose,70-74,1259,54280,0.02319454679439941
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,2nd dose,70-74,879,51514,0.01706332259191676
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,2nd dose,75-79,706,36008,0.01960675405465452
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,2nd dose,75-79,1490,33389,0.0446254754559885
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,2nd dose,75-79,1714,50001,0.03427931441371172
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,2nd dose,75-79,1666,38296,0.043503237936076876
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,2nd dose,75-79,898,35616,0.025213387241689127
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,2nd dose,80+,10955,57517,0.1904654276127058
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,2nd dose,80+,12828,51226,0.25041970874165465
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,2nd dose,80+,12876,77033,0.1671491438734049
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,2nd dose,80+,12595,60667,0.2076087494024758
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,2nd dose,80+,12659,55290,0.22895641164767588
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-14,2nd dose,Under 55,9264,1194774,0.007753767658151249
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-14,2nd dose,Under 55,9817,880382,0.011150841339327701
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-14,2nd dose,Under 55,12586,1174851,0.010712847841981664
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-14,2nd dose,Under 55,10423,1061653,0.009817708799391138
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-14,2nd dose,Under 55,12817,838691,0.015282148013988466
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,1st dose,50-54,63321,116131,0.5452549276248375
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,1st dose,50-54,59711,95929,0.622449936932523
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,1st dose,50-54,85272,135394,0.6298063429694079
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,1st dose,50-54,72292,118762,0.6087132247688655
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,1st dose,50-54,62961,100801,0.6246068987410839
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,1st dose,55-59,71366,99417,0.7178450365631632
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,1st dose,55-59,63258,81982,0.7716084018443072
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,1st dose,55-59,93873,120946,0.776156301159195
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,1st dose,55-59,79101,104934,0.7538166847732861
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,1st dose,55-59,69125,88189,0.7838279150460942
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,1st dose,60-64,65555,79241,0.8272863795257506
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,1st dose,60-64,54822,64335,0.8521333644206108
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,1st dose,60-64,83064,99934,0.8311885844657474
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,1st dose,60-64,69940,78762,0.887991671110434
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,1st dose,60-64,61245,68802,0.8901630766547484
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,1st dose,65-69,52502,62019,0.8465470259114143
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,1st dose,65-69,44385,52454,0.8461699775040988
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,1st dose,65-69,68603,81945,0.8371834767221917
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,1st dose,65-69,54003,59879,0.9018687686835117
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,1st dose,65-69,50561,56629,0.8928464214448427
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,1st dose,70-74,45394,51198,0.8866361967264347
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,1st dose,70-74,40445,46739,0.8653372986157171
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,1st dose,70-74,60352,69815,0.8644560624507628
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,1st dose,70-74,50227,54280,0.9253316138540899
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,1st dose,70-74,49036,51514,0.9518965718057227
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,1st dose,75-79,31189,36008,0.8661686291935126
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,1st dose,75-79,29167,33389,0.8735511695468567
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,1st dose,75-79,43832,50001,0.876622467550649
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,1st dose,75-79,35733,38296,0.9330739502820138
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,1st dose,75-79,34267,35616,0.9621237646001797
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,1st dose,80+,46361,57517,0.8060399534050803
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,1st dose,80+,42117,51226,0.8221801428961856
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,1st dose,80+,63479,77033,0.8240494333597289
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,1st dose,80+,52586,60667,0.8667974351789276
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,1st dose,80+,49420,55290,0.8938325194429373
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,1st dose,Under 50,185209,1078643,0.1717055596708086
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,1st dose,Under 50,142745,784453,0.1819675621101583
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,1st dose,Under 50,211485,1039457,0.20345718966729745
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,1st dose,Under 50,171457,942891,0.18184180355947824
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,1st dose,Under 50,143422,737890,0.19436772418653187
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,2nd dose,50-54,2373,116131,0.020433820426931655
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,2nd dose,50-54,2579,95929,0.026884466636783455
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,2nd dose,50-54,3209,135394,0.023701197985139668
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,2nd dose,50-54,2503,118762,0.021075764975328808
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,2nd dose,50-54,2978,100801,0.029543357704784674
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,2nd dose,55-59,2140,99417,0.02152549362785037
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,2nd dose,55-59,2490,81982,0.030372520797248177
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,2nd dose,55-59,3181,120946,0.026300993831958063
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,2nd dose,55-59,2491,104934,0.02373873101187413
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,2nd dose,55-59,3090,88189,0.03503838347186157
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,2nd dose,60-64,1763,79241,0.022248583435342816
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,2nd dose,60-64,1941,64335,0.030170202844485895
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,2nd dose,60-64,2802,99934,0.02803850541357296
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,2nd dose,60-64,1861,78762,0.02362814555242376
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,2nd dose,60-64,2313,68802,0.033618208773000785
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,2nd dose,65-69,1015,62019,0.016365952369435173
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,2nd dose,65-69,1339,52454,0.02552712853166584
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,2nd dose,65-69,2439,81945,0.029763866007688083
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,2nd dose,65-69,1067,59879,0.017819268858865377
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,2nd dose,65-69,1401,56629,0.024739974218156775
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,2nd dose,70-74,1024,51198,0.02000078128051877
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,2nd dose,70-74,1366,46739,0.029226128072915553
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,2nd dose,70-74,3858,69815,0.055260330874453915
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,2nd dose,70-74,2347,54280,0.04323876197494473
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,2nd dose,70-74,1353,51514,0.026264704740458906
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,2nd dose,75-79,1567,36008,0.04351810708731393
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,2nd dose,75-79,2771,33389,0.0829914043547276
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,2nd dose,75-79,3012,50001,0.06023879522409552
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,2nd dose,75-79,2518,38296,0.06575099227073324
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,2nd dose,75-79,1728,35616,0.04851752021563342
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,2nd dose,80+,13373,57517,0.23250517238381696
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,2nd dose,80+,17725,51226,0.3460156951548042
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,2nd dose,80+,15593,77033,0.20241974218841277
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,2nd dose,80+,13890,60667,0.22895478596271449
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,2nd dose,80+,14410,55290,0.26062579128232954
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-21,2nd dose,Under 50,12261,1078643,0.011367060278516618
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-21,2nd dose,Under 50,12955,784453,0.01651469240349645
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-21,2nd dose,Under 50,16506,1039457,0.015879444748556217
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-21,2nd dose,Under 50,13518,942891,0.014336757907329691
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-21,2nd dose,Under 50,15014,737890,0.020347206223149793
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,1st dose,50-54,86388,116131,0.7438840619645056
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,1st dose,50-54,71120,95929,0.7413816468429776
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,1st dose,50-54,104140,135394,0.7691625921384995
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,1st dose,50-54,91349,118762,0.7691770094811472
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,1st dose,50-54,79942,100801,0.7930675290919733
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,1st dose,55-59,80879,99417,0.8135328967882757
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,1st dose,55-59,67533,81982,0.8237539947793419
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,1st dose,55-59,100327,120946,0.8295189588742083
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,1st dose,55-59,88679,104934,0.8450931061429089
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,1st dose,55-59,76728,88189,0.8700404812391568
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,1st dose,60-64,68765,79241,0.8677957118158529
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,1st dose,60-64,56500,64335,0.8782155902696821
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,1st dose,60-64,85563,99934,0.8561950887585806
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,1st dose,60-64,72250,78762,0.9173205352835123
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,1st dose,60-64,63027,68802,0.9160634865265544
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,1st dose,65-69,53450,62019,0.8618326641835566
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,1st dose,65-69,44937,52454,0.8566934838143897
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,1st dose,65-69,69360,81945,0.8464213801940326
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,1st dose,65-69,54677,59879,0.9131248016833948
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,1st dose,65-69,51018,56629,0.9009164915502658
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,1st dose,70-74,45712,51198,0.8928473768506582
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,1st dose,70-74,40707,46739,0.8709428956545925
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,1st dose,70-74,60734,69815,0.8699276659743608
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,1st dose,70-74,50449,54280,0.9294215180545321
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,1st dose,70-74,49245,51514,0.9559537213184766
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,1st dose,75-79,31387,36008,0.871667407242835
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,1st dose,75-79,29299,33389,0.8775045673724879
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,1st dose,75-79,44048,50001,0.880942381152377
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,1st dose,75-79,35916,38296,0.9378525172341758
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,1st dose,75-79,34386,35616,0.9654649595687331
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,1st dose,80+,46556,57517,0.8094302554027505
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,1st dose,80+,42257,51226,0.8249131300511459
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,1st dose,80+,63763,77033,0.8277361650201861
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,1st dose,80+,52739,60667,0.8693193993439596
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,1st dose,80+,49535,55290,0.8959124615662869
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,1st dose,Under 50,214830,1078643,0.19916691620860655
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,1st dose,Under 50,178376,784453,0.22738902139452588
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,1st dose,Under 50,244887,1039457,0.2355912750599592
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,1st dose,Under 50,197252,942891,0.20919915451520907
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,1st dose,Under 50,162860,737890,0.22071040398975458
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,2nd dose,50-54,4135,116131,0.03560634111477556
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,2nd dose,50-54,4138,95929,0.04313606938464906
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,2nd dose,50-54,5192,135394,0.038347341831986646
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,2nd dose,50-54,4259,118762,0.03586163924487631
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,2nd dose,50-54,4569,100801,0.04532693128044365
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,2nd dose,55-59,3832,99417,0.0385447156924872
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,2nd dose,55-59,4297,81982,0.0524139445244078
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,2nd dose,55-59,5198,120946,0.04297785788699089
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,2nd dose,55-59,4245,104934,0.04045399965692721
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,2nd dose,55-59,4793,88189,0.054349181870754854
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,2nd dose,60-64,3170,79241,0.04000454310268674
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,2nd dose,60-64,3536,64335,0.05496230667599285
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,2nd dose,60-64,4589,99934,0.045920307402885906
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,2nd dose,60-64,3362,78762,0.04268555902592621
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,2nd dose,60-64,3723,68802,0.054111799075608265
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,2nd dose,65-69,2405,62019,0.038778438865508955
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,2nd dose,65-69,3234,52454,0.06165402066572616
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,2nd dose,65-69,4008,81945,0.04891085484166209
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,2nd dose,65-69,2477,59879,0.04136675629185524
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,2nd dose,65-69,2810,56629,0.049621218810150275
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,2nd dose,70-74,3751,51198,0.07326458064768156
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,2nd dose,70-74,5493,46739,0.11752497913947667
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,2nd dose,70-74,7056,69815,0.10106710592279596
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,2nd dose,70-74,5054,54280,0.09310980103168755
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,2nd dose,70-74,4260,51514,0.0826959661451256
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,2nd dose,75-79,3793,36008,0.10533770273272607
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,2nd dose,75-79,7950,33389,0.23810236904369703
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,2nd dose,75-79,6927,50001,0.1385372292554149
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,2nd dose,75-79,6104,38296,0.15939001462293712
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,2nd dose,75-79,6775,35616,0.19022349505840072
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,2nd dose,80+,19539,57517,0.3397082601665595
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,2nd dose,80+,22734,51226,0.44379807129192206
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,2nd dose,80+,24865,77033,0.3227837420326354
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,2nd dose,80+,20880,60667,0.3441739331102576
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,2nd dose,80+,23437,55290,0.42389220473865075
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-03-28,2nd dose,Under 50,20599,1078643,0.019097143355123056
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-03-28,2nd dose,Under 50,19890,784453,0.025355247541917744
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-03-28,2nd dose,Under 50,26195,1039457,0.025200657651062046
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-03-28,2nd dose,Under 50,21763,942891,0.02308114087418376
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-03-28,2nd dose,Under 50,22626,737890,0.030663106967163126
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,1st dose,50-54,90976,116131,0.7833911703162808
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,1st dose,50-54,72872,95929,0.7596451542286483
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,1st dose,50-54,108402,135394,0.8006410919243098
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,1st dose,50-54,95502,118762,0.8041461073407319
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,1st dose,50-54,83382,100801,0.8271941746609657
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,1st dose,55-59,83245,99417,0.8373316434814971
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,1st dose,55-59,68754,81982,0.8386475079895587
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,1st dose,55-59,102264,120946,0.8455343707108958
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,1st dose,55-59,90829,104934,0.8655821754626718
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,1st dose,55-59,78193,88189,0.8866525303609294
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,1st dose,60-64,69803,79241,0.8808949912292878
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,1st dose,60-64,57006,64335,0.8860806714851946
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,1st dose,60-64,86517,99934,0.8657413893169492
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,1st dose,60-64,73163,78762,0.9289124196947767
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,1st dose,60-64,63608,68802,0.9245080084881253
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,1st dose,65-69,53851,62019,0.8682984246763089
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,1st dose,65-69,45118,52454,0.8601441262820757
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,1st dose,65-69,69724,81945,0.8508633839770577
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,1st dose,65-69,54950,59879,0.9176839960587184
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,1st dose,65-69,51216,56629,0.9044129333027248
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,1st dose,70-74,45860,51198,0.8957381147701082
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,1st dose,70-74,40820,46739,0.8733605768202144
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,1st dose,70-74,60910,69815,0.8724486141946574
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,1st dose,70-74,50552,54280,0.931319086219602
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,1st dose,70-74,49426,51514,0.9594673292697131
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,1st dose,75-79,31484,36008,0.8743612530548767
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,1st dose,75-79,29381,33389,0.8799604660217437
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,1st dose,75-79,44135,50001,0.882682346353073
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,1st dose,75-79,36003,38296,0.9401242949655316
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,1st dose,75-79,34484,35616,0.9682165318957772
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,1st dose,80+,46704,57517,0.8120034076881618
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,1st dose,80+,42386,51226,0.8274313825010736
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,1st dose,80+,63833,77033,0.8286448664857918
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,1st dose,80+,52838,60667,0.8709512585095687
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,1st dose,80+,49681,55290,0.8985530837402785
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,1st dose,Under 50,231499,1078643,0.21462059272623102
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,1st dose,Under 50,189367,784453,0.24140005838463235
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,1st dose,Under 50,258120,1039457,0.24832196040817464
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,1st dose,Under 50,207865,942891,0.2204549624505908
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,1st dose,Under 50,171155,737890,0.23195191695239128
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,2nd dose,50-54,6032,116131,0.05194134210503655
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,2nd dose,50-54,5318,95929,0.055436833491436376
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,2nd dose,50-54,6813,135394,0.05031980737698864
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,2nd dose,50-54,6240,118762,0.05254205890773143
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,2nd dose,50-54,6240,100801,0.061904147776311744
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,2nd dose,55-59,5824,99417,0.05858153032177595
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,2nd dose,55-59,6216,81982,0.07582152179746773
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,2nd dose,55-59,6993,120946,0.05781919203611529
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,2nd dose,55-59,6290,104934,0.05994244000991099
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,2nd dose,55-59,6511,88189,0.07383006950980281
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,2nd dose,60-64,4879,79241,0.06157166113501849
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,2nd dose,60-64,5672,64335,0.08816351907981658
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,2nd dose,60-64,6251,99934,0.06255128384733924
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,2nd dose,60-64,5325,78762,0.06760874533404433
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,2nd dose,60-64,5327,68802,0.07742507485247521
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,2nd dose,65-69,4474,62019,0.07213918315354972
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,2nd dose,65-69,4687,52454,0.08935448202234339
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,2nd dose,65-69,6199,81945,0.07564830068948684
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,2nd dose,65-69,4945,59879,0.08258320947243608
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,2nd dose,65-69,5063,56629,0.08940648784191846
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,2nd dose,70-74,10360,51198,0.2023516543614985
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,2nd dose,70-74,11505,46739,0.24615417531397762
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,2nd dose,70-74,11962,69815,0.17133853756356085
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,2nd dose,70-74,13133,54280,0.24194915254237287
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,2nd dose,70-74,9665,51514,0.1876188997165819
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,2nd dose,75-79,10755,36008,0.2986836258609198
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,2nd dose,75-79,15534,33389,0.4652430441163257
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,2nd dose,75-79,12938,50001,0.25875482490350193
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,2nd dose,75-79,13674,38296,0.35706078963860455
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,2nd dose,75-79,14575,35616,0.40922619047619047
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,2nd dose,80+,27742,57517,0.48232696420188814
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,2nd dose,80+,28562,51226,0.5575684222855581
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,2nd dose,80+,35700,77033,0.4634377474588813
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,2nd dose,80+,30038,60667,0.4951291476420459
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,2nd dose,80+,31903,55290,0.5770121179236751
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-04,2nd dose,Under 50,28686,1078643,0.026594526641344728
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-04,2nd dose,Under 50,24755,784453,0.03155702126194941
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-04,2nd dose,Under 50,33711,1039457,0.03243135598682774
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-04,2nd dose,Under 50,29195,942891,0.030963282076083027
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-04,2nd dose,Under 50,29273,737890,0.039671224708289855
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,1st dose,50-54,93162,116131,0.8022147402502346
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,1st dose,50-54,74207,95929,0.7735616966714967
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,1st dose,50-54,110470,135394,0.8159150331624739
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,1st dose,50-54,97163,118762,0.8181320624442162
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,1st dose,50-54,84511,100801,0.8383944603724169
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,1st dose,55-59,84626,99417,0.8512226279207782
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,1st dose,55-59,69682,81982,0.8499670659413042
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,1st dose,55-59,103558,120946,0.8562333603426322
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,1st dose,55-59,91909,104934,0.8758743591209712
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,1st dose,55-59,78884,88189,0.894487974690721
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,1st dose,60-64,70532,79241,0.8900947741699373
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,1st dose,60-64,57464,64335,0.8931996580399472
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,1st dose,60-64,87245,99934,0.8730261972902116
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,1st dose,60-64,73737,78762,0.9362001980650567
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,1st dose,60-64,63931,68802,0.9292026394581553
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,1st dose,65-69,54128,62019,0.8727647978845192
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,1st dose,65-69,45310,52454,0.8638044763030465
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,1st dose,65-69,70062,81945,0.8549881017755812
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,1st dose,65-69,55154,59879,0.9210908665809382
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,1st dose,65-69,51386,56629,0.9074149287467552
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,1st dose,70-74,46030,51198,0.8990585569748818
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,1st dose,70-74,40946,46739,0.8760563982969255
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,1st dose,70-74,61177,69815,0.8762730072334025
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,1st dose,70-74,50683,54280,0.9337324981577008
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,1st dose,70-74,49552,51514,0.9619132662965407
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,1st dose,75-79,31583,36008,0.8771106420795379
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,1st dose,75-79,29481,33389,0.8829554643744946
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,1st dose,75-79,44344,50001,0.8868622627547449
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,1st dose,75-79,36083,38296,0.9422132859828702
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,1st dose,75-79,34592,35616,0.9712488769092543
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,1st dose,80+,46827,57517,0.8141419058713076
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,1st dose,80+,42514,51226,0.8299301136141803
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,1st dose,80+,63954,77033,0.8302156218763387
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,1st dose,80+,52872,60667,0.8715116949906868
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,1st dose,80+,49755,55290,0.8998914812805209
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,1st dose,Under 50,241178,1078643,0.22359390456341904
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,1st dose,Under 50,197272,784453,0.2514771439461638
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,1st dose,Under 50,267359,1039457,0.25721025496966204
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,1st dose,Under 50,215149,942891,0.22818013959195707
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,1st dose,Under 50,176636,737890,0.23937985336567782
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,2nd dose,50-54,8324,116131,0.07167767435051794
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,2nd dose,50-54,7370,95929,0.07682765378561228
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,2nd dose,50-54,9461,135394,0.06987754257943483
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,2nd dose,50-54,9259,118762,0.07796264798504572
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,2nd dose,50-54,8384,100801,0.08317377803791628
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,2nd dose,55-59,8115,99417,0.08162587887383445
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,2nd dose,55-59,8451,81982,0.1030836037178893
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,2nd dose,55-59,10011,120946,0.08277247697319465
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,2nd dose,55-59,9746,104934,0.0928774277164694
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,2nd dose,55-59,9102,88189,0.10321015092585244
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,2nd dose,60-64,7034,79241,0.08876717860703423
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,2nd dose,60-64,8859,64335,0.137701095826533
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,2nd dose,60-64,9264,99934,0.09270118278063522
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,2nd dose,60-64,8901,78762,0.11301135065132932
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,2nd dose,60-64,8305,68802,0.12070870032847883
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,2nd dose,65-69,8146,62019,0.131346845321595
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,2nd dose,65-69,12128,52454,0.23121210965798605
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,2nd dose,65-69,12979,81945,0.15838672280187932
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,2nd dose,65-69,10232,59879,0.1708779371732995
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,2nd dose,65-69,8927,56629,0.15764007840505748
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,2nd dose,70-74,18120,51198,0.3539200750029298
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,2nd dose,70-74,20569,46739,0.44008215836881404
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,2nd dose,70-74,24191,69815,0.3465014681658669
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,2nd dose,70-74,24769,54280,0.45631908621960204
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,2nd dose,70-74,18504,51514,0.3592033233684047
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,2nd dose,75-79,19638,36008,0.5453788047100644
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,2nd dose,75-79,21434,33389,0.6419479469286292
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,2nd dose,75-79,27586,50001,0.5517089658206836
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,2nd dose,75-79,21338,38296,0.5571861290996448
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,2nd dose,75-79,22134,35616,0.6214622641509434
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,2nd dose,80+,33774,57517,0.587200305996488
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,2nd dose,80+,33258,51226,0.6492406199976575
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,2nd dose,80+,47044,77033,0.6106993106850311
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,2nd dose,80+,36865,60667,0.6076614963654046
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,2nd dose,80+,37878,55290,0.6850786760716223
+East London Health and Care Partnership,"Barking and Dagenham, Hackney and City of London, Havering, Newham, Redbridge, Tower Hamlets, Waltham Forest",2020-12-08,2021-04-11,2nd dose,Under 50,38312,1078643,0.035518702666220425
+North London Partners in Health and Care,"Barnet, Camden, Enfield, Haringey, Islington",2020-12-08,2021-04-11,2nd dose,Under 50,31469,784453,0.04011585142768273
+North West London Health and Care Partnership,"Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, Westminster",2020-12-08,2021-04-11,2nd dose,Under 50,43934,1039457,0.04226629865400878
+Our Healthier South East London,"Bexley, Bromley, Greenwich, Lambeth, Lewisham, Southwark",2020-12-08,2021-04-11,2nd dose,Under 50,39454,942891,0.04184364894775748
+South West London Health and Care Partnership,"Croydon, Kingston upon Thames, Merton, Richmond upon Thames, Sutton, Wandsworth",2020-12-08,2021-04-11,2nd dose,Under 50,37338,737890,0.050601038095109026

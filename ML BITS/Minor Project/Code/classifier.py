@@ -9,8 +9,11 @@ Created on Mon Mar  8 20:10:46 2021
 import numpy as np
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import QuantileTransformer
+import matplotlib.pyplot as plt
 from scipy import stats
 import pandas as pd
+import time
 def heatMap(x):
     import seaborn as sns
     %matplotlib inline
@@ -20,59 +23,54 @@ def heatMap(x):
             yticklabels=corr.columns)
 changed = []
 pca=False
-def logTransformTrain(x):
+def transform(x):
     for i in range(len(x[0])):
-        avg=0
-        for j in range(40):
-            avg+= stats.shapiro(np.random.choice(x[:,i],200))[1]
-        val = avg/40
-        print(val)
-        if val<0.004:
-            changed.append(i)
-            for j in range(len(x)):
-                if(x[j,i]>=0):
-                    x[j,i]=np.log(x[j,i]+1)
-                else:
-                    x[j,i]=-np.log(1-x[j,i])
+        quantile = QuantileTransformer(output_distribution='normal')
+        data = quantile.fit_transform(x[:,i].reshape(-1,1))
+        x[:,i] = np.transpose(data)
+#        plt.hist(data, bins=100)
+#        plt.show()
     return x       
-def logTransformTest(x):
-    for i in changed:
-        for j in range(len(x)):
-            if(x[j,i]>=0):
-                x[j,i]=np.log(x[j,i]+1)
-            else:
-                x[j,i]=-np.log(1-x[j,i])
-    return x       
+    
 df = pd.read_csv("./train.csv")
-df=df.fillna(df.mean())
+modeValues={}
+for col in df:
+    modeValues[col] = df[col].mean()
+df.fillna(value = modeValues, inplace=True)
 del df['id']
 y = df['Result'].values
 del df['Result']
+correlated_features = set()
+
+for i in range(len(df.columns)):
+    if df.iloc[:,i].var()<0.3:
+        correlated_features.add(df.columns[i])
+correlation_matrix = df.corr()
+df.drop(labels=correlated_features, axis=1, inplace=True)
+temp1 = correlated_features
+correlated_features = set()
+for i in range(len(correlation_matrix .columns)):
+    for j in range(i):
+        if abs(correlation_matrix.iloc[i, j]) > 0.7:
+            colname = correlation_matrix.columns[i]
+            correlated_features.add(colname)
+temp2 = correlated_features
+df.drop(labels=correlated_features, axis=1, inplace=True)
 x = df.values
-x = logTransformTrain(x)
+x = transform(x)
 x = StandardScaler().fit_transform(x)
-#heatMap(pd.DataFrame(x))
-if pca:
-    train_x = x
-    u, s, vt = np.linalg.svd(x, full_matrices=False)
-    pref = np.cumsum(s)
-    for i in range(100):
-        print(i,pref[i]*100/pref[99])
-    r=100
-    u = u[:,:r]
-    s = s[:r]
-    vt = vt[:r]
-    x = u*s
-#heatMap(pd.DataFrame(x))
 from sklearn.linear_model  import  LogisticRegression
-clf = LogisticRegression(random_state=0)
+clf = LogisticRegression(random_state=40, tol = 1e-6, max_iter=500,
+                         penalty='l2', solver = 'newton-cg')
 clf.fit(x, y)
 ans = []
 test_df = pd.read_csv('./test.csv')
 del test_df['id']
-test_df=test_df.fillna(test_df.mean())
+test_df.fillna(value = modeValues, inplace=True)
+test_df.drop(labels=temp1, axis=1, inplace=True)
+test_df.drop(labels=temp2, axis=1, inplace=True)
 test_x = test_df.values
-test_x = logTransformTest(test_x)
+test_x = transform(test_x)
 test_x = StandardScaler().fit_transform(test_x)
 if pca:
     test_x = test_x@np.transpose(vt)
